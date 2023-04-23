@@ -1,4 +1,14 @@
-# 📪 Making a post
+---
+description: >-
+  A list of all the competitions in the WCA, past, present, and upcoming by
+  default they are sorted by
+---
+
+# 🏆 Competitions
+
+{% hint style="warning" %}
+By default they are sorted by id (eg. 100Merito2018)
+{% endhint %}
 
 ## Step 1 - Start journalling
 
