@@ -10,3 +10,4 @@
 
 * [🛠 WCA API V0](fundamentals/getting-set-up/README.md)
   * [📝 Regions](fundamentals/getting-set-up/setting-permissions.md)
+  * [👥 Persons Endpoint](fundamentals/getting-set-up/persons-endpoint.md)
