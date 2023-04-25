@@ -25,12 +25,18 @@ www.example.com/api/v0?first\_param=3\&second=true\&third=yeah
 
 ## Country Codes
 
-A list of all the countrys and their iso2 codes
+A list of all the countries and their iso2 codes
 
 | iso2 | Country                                 |
 | ---- | --------------------------------------- |
 | XW   | World                                   |
 | XN   | North America                           |
+| XE   | Europe                                  |
+| XA   | Asia                                    |
+| XO   | Oceania                                 |
+| XS   | South America                           |
+| XF   | Africa                                  |
+| XM   | Americas                                |
 |      |                                         |
 | AF   | Afghanistan                             |
 | AL   | Albania                                 |
