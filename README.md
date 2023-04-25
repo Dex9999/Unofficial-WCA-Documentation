@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # 👋 Welcome to the Unofficial WCA Database & API Documention
 
 ## Overview
