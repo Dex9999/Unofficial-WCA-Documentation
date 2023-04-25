@@ -27,8 +27,11 @@ www.example.com/api/v0?first\_param=3\&second=true\&third=yeah
 
 A list of all the countrys and their iso2 codes
 
-| Role | Capabilities                            |
+| iso2 | Country                                 |
 | ---- | --------------------------------------- |
+| XW   | World                                   |
+| XN   | North America                           |
+|      |                                         |
 | AF   | Afghanistan                             |
 | AL   | Albania                                 |
 | DZ   | Algeria                                 |
@@ -151,7 +154,80 @@ A list of all the countrys and their iso2 codes
 | MA   | Morocco                                 |
 | MZ   | Mozambique                              |
 | MM   | Myanmar                                 |
-| N    |                                         |
-|      |                                         |
-|      |                                         |
-|      |                                         |
+| NA   | Namibia                                 |
+| NR   | Nauru                                   |
+| NP   | Nepal                                   |
+| NL   | Netherlands                             |
+| NZ   | New Zealand                             |
+| NI   | Nicaragua                               |
+| NE   | Niger                                   |
+| NG   | Nigeria                                 |
+| MK   | North Macedonia                         |
+| NO   | Norway                                  |
+| OM   | Oman                                    |
+| PK   | Pakistan                                |
+| PW   | Palau                                   |
+| PS   | Palestine                               |
+| PA   | Panama                                  |
+| PG   | Papua New Guinea                        |
+| PY   | Paraguay                                |
+| PE   | Peru                                    |
+| PH   | Philippines                             |
+| PL   | Poland                                  |
+| PT   | Portugal                                |
+| QA   | Qatar                                   |
+| KR   | Republic of Korea                       |
+| RO   | Romania                                 |
+| RU   | Russia                                  |
+| RW   | Rwanda                                  |
+| KN   | Saint Kitts and Nevis                   |
+| LC   | Saint Lucia                             |
+| VC   | Saint Vincent and the Grenadines        |
+| WS   | Samoa                                   |
+| SM   | San Marino                              |
+| ST   | São Tomé and Príncipe                   |
+| SA   | Saudi Arabia                            |
+| SN   | Senegal                                 |
+| RS   | Serbia                                  |
+| SC   | Seychelles                              |
+| SL   | Sierra Leone                            |
+| SG   | Singapore                               |
+| SK   | Slovakia                                |
+| SI   | Slovenia                                |
+| SB   | Solomon Islands                         |
+| SO   | Somalia                                 |
+| ZA   | South Africa                            |
+| SS   | South Sudan                             |
+| ES   | Spain                                   |
+| LK   | Sri Lanka                               |
+| SD   | Sudan                                   |
+| SR   | Suriname                                |
+| SE   | Sweden                                  |
+| CH   | Switzerland                             |
+| SY   | Syria                                   |
+| TW   | Taiwan                                  |
+| TJ   | Tajikistan                              |
+| TZ   | Tanzania                                |
+| TH   | Thailand                                |
+| TL   | Timor-Leste                             |
+| TG   | Togo                                    |
+| TO   | Tonga                                   |
+| TT   | Trinidad and Tobago                     |
+| TN   | Tunisia                                 |
+| TR   | Turkey                                  |
+| TM   | Turkmenistan                            |
+| TV   | Tuvalu                                  |
+| UG   | Uganda                                  |
+| UA   | Ukraine                                 |
+| AE   | United Arab Emirates                    |
+| GB   | United Kingdom                          |
+| US   | United States                           |
+| UY   | Uruguay                                 |
+| UZ   | Uzbekistan                              |
+| VU   | Vanuatu                                 |
+| VA   | Vatican City                            |
+| VE   | Venezuela                               |
+| VN   | Vietnam                                 |
+| YE   | Yemen                                   |
+| ZM   | Zambia                                  |
+| ZW   | Zimbabwe                                |
