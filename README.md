@@ -1,5 +1,5 @@
 ---
-layout: editorial
+layout: landing
 ---
 
 # 👋 Welcome to the Unofficial WCA Database & API Documention
