@@ -1,12 +1,31 @@
-# 📝 Setting permissions
+---
+description: The thing that is the worst
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features, use them to encourage folks to perform certain actions and discover the value in your product.
+# 📝 Regions
+
+
+
+{% hint style="warning" %}
+**In the API, instead of regions, you pass in a country\_iso2 code**\
+
+
+**eg.**
+
+**For competitions in Canada your query would be:**\
+`?country_iso2=CA`
 {% endhint %}
 
-## Permission levels
+{% hint style="danger" %}
+Remember that only the first parameter has the ?, the rest of them have & symbols between them\
+\
+For example:\
+www.example.com/api/v0?first\_param=3\&second=true\&third=yeah
+{% endhint %}
 
-There are 4 types of permission levels in the product.
+## Country Codes
+
+A list of all the countrys and their iso2 codes
 
 | Role          | Capabilities                            |
 | ------------- | --------------------------------------- |

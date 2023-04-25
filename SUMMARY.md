@@ -1,24 +1,12 @@
 # Table of contents
 
-* [👋 Welcome to the Unofficial WCA Database Documention](README.md)
+* [👋 Welcome to the Unofficial WCA Database & API Documention](README.md)
 
-## Overview
+## Database Tables
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [🏆 Competitions](database-tables/making-a-post.md)
 
-## Tables
+## 🧠 Fundamentals
 
-* [🏆 Competitions](tables/making-a-post.md)
-* [📎 Understanding Projects](tables/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🛠 WCA API V0](fundamentals/getting-set-up/README.md)
+  * [📝 Regions](fundamentals/getting-set-up/setting-permissions.md)
