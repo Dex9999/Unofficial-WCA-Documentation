@@ -12,8 +12,6 @@ By default they are sorted by id (eg. 100Merito2018)
 
 This table has soooo many columns, I ordered them from most useful to useless/censored data, also there is a example table below
 
-![](https://images.unsplash.com/photo-1522881451255-f59ad836fdfb?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHx3cml0ZXxlbnwwfHx8fDE2NjA1ODc5Nzk\&ixlib=rb-1.2.1\&q=80)
-
 ## Columns
 
 * id: The unique identifier for each competition. - SOSWaterloo2023

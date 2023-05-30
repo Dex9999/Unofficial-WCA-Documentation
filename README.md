@@ -8,7 +8,7 @@ layout: landing
 
 If you don't want to learn about SQL and just generate results go to the...
 
-## WCA Database SQL Generator
+## WCA Database SQL Generator (Maybe Coming Soon)
 
 {% content-ref url="WCA%20Database%20SQL%20Generator/" %}
 [WCA%20Database%20SQL%20Generator](WCA%20Database%20SQL%20Generator/)
