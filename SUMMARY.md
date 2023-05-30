@@ -7,7 +7,7 @@
 * [Preface and Groupings](database-tables/preface-and-groupings.md)
 * [‼ RELATIONSHIPS](database-tables/relationships.md)
 * [🏆 Competitions](database-tables/making-a-post.md)
-* [📸 CompetitionsMedia](database-tables/competitionsmedia.md)
+* [📸 CompetitionsMedia](database-tables/media.md)
 * [♨ ConciseAverageResults](database-tables/conciseaverageresults.md)
 * [☕ ConciseSingleResults](database-tables/concisesingleresults.md)
 * [🌏 Continents](database-tables/continents.md)
@@ -56,6 +56,8 @@
 * [🪅 users](database-tables/users.md)
 * [🧹 venue\_rooms](database-tables/venue\_rooms.md)
 * [🤬 Censored Tables](database-tables/censored-tables/README.md)
+  * [📩 InboxPersons](database-tables/censored-tables/inboxpersons.md)
+  * [📥 InboxResults](database-tables/censored-tables/inboxresults.md)
   * [active\_storage\_attachments](database-tables/censored-tables/active\_storage\_attachments.md)
   * [active\_storage\_blobs](database-tables/censored-tables/active\_storage\_blobs.md)
   * [active\_storage\_variant\_records](database-tables/censored-tables/active\_storage\_variant\_records.md)
@@ -88,8 +90,6 @@
   * [vote\_options](database-tables/censored-tables/vote\_options.md)
   * [votes](database-tables/censored-tables/votes.md)
   * [wcif\_extensions](database-tables/censored-tables/wcif\_extensions.md)
-  * [📩 InboxPersons](database-tables/censored-tables/inboxpersons.md)
-  * [📥 InboxResults](database-tables/censored-tables/inboxresults.md)
 
 ## 🧠 Fundamentals
 
