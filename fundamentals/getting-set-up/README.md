@@ -1,7 +1,7 @@
 ---
 description: >-
-  This API had 0 documentation :) So after struggling for many projects with it,
-  I decided to make one for myself and others.
+  This API had 0 comprehensive documentation :) So after struggling for many
+  projects with it, I decided to make one for myself and others.
 ---
 
 # 🛠 WCA API V0
@@ -22,7 +22,7 @@ In the URL "[https://www.worldcubeassociation.org/api/v0/persons](https://www.wo
 
 Each segment of the path can contain _<mark style="color:purple;">**query**</mark>_ parameters that are used to specify additional information about the resource.
 
-For example, if the API supported filtering by country, a parameter such as "?country=USA" could be appended to the end of the path to filter the results to only show persons from the United States. [(The actual usage here is different)](setting-permissions.md)
+For example, if the API supported filtering by country, a parameter such as "?country=USA" could be appended to the end of the path to filter the results to only show persons from the United States. [(The actual usage here is different)](competitions/setting-permissions.md)
 
 When a client makes a request to a REST API using a URL such as "[https://www.worldcubeassociation.org/api/v0/persons?id=2022OLEA03](https://www.worldcubeassociation.org/api/v0/persons)", the server processes the request based on the path and any parameters included in the URL. The server then returns a response containing the requested data or indicating an error if the request was invalid.
 

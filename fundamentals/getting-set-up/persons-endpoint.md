@@ -4,7 +4,7 @@ description: An endpoint for data on WCA competitors
 
 # 👥 Persons Endpoint
 
-{% swagger method="get" path="/persons" baseUrl="https://www.worldcubeassociation.org/api/v0" summary="Returns a list of people in the database" expanded="true" %}
+{% swagger method="get" path="/persons" baseUrl="https://www.worldcubeassociation.org/api/v0" summary="Returns a list of people in the database" expanded="false" %}
 {% swagger-description %}
 To access the next page of the API results, utilize the page parameter: "?page=2"
 {% endswagger-description %}
@@ -54,7 +54,7 @@ a
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="/persons/{id}/results" baseUrl="https://www.worldcubeassociation.org/api/v0" summary="Returns a list of a person's competition results." expanded="true" %}
+{% swagger method="get" path="/persons/{id}/results" baseUrl="https://www.worldcubeassociation.org/api/v0" summary="Returns a list of a person's competition results." expanded="false" %}
 {% swagger-description %}
 {id} is the person's WCA id
 {% endswagger-description %}
