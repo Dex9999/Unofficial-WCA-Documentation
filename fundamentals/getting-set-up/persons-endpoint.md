@@ -71,3 +71,9 @@ Filter results by event
 Filter results by round type (e.g., "first round", "semifinals", "finals" etc.).
 {% endswagger-parameter %}
 {% endswagger %}
+
+{% swagger method="get" path="/persons/{id}/competitions" baseUrl="https://www.worldcubeassociation.org/api/v0" summary="Returns a list of competitions a person's attended." expanded="false" %}
+{% swagger-description %}
+{id} is the person's WCA id
+{% endswagger-description %}
+{% endswagger %}
