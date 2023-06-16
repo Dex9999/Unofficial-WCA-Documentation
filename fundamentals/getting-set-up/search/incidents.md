@@ -1,2 +1,6 @@
+---
+description: Search Incidents
+---
+
 # Incidents
 

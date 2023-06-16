@@ -32,7 +32,7 @@ A comma-separated list of WCA IDs. If provided, only people with these WCA IDs w
 
 
 
-[If you only want one person's stats use the next path.](persons-endpoint.md#undefined)
+[If you only want one person's stats use the next path.](./#undefined)
 
 
 

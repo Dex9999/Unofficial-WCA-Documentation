@@ -1,2 +1,6 @@
+---
+description: Search Competitions
+---
+
 # Competitions
 
